@@ -1,3 +1,4 @@
+type: ArmoredConveyor
 name: R. Titanium Conveyor
 description: More expensive, but double the health of a regular titanium conveyor. Functions like the armored conveyor.
 health: 130
