@@ -1,0 +1,12 @@
+type: Router
+name: R. Distributor
+description: A distributor reinforced with titanium. Functions the same.
+health: 325
+requirements: [
+  copper/8
+  lead/8
+  titanium/8
+]
+size: 2
+category: distribution
+research: r-router

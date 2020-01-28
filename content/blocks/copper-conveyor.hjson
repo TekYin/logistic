@@ -1,0 +1,10 @@
+type: Conveyor
+name: Copper Conveyor
+description: The most basic of conveyors. Slow and fragile.
+health: 50
+requirements: [
+  copper/1
+]
+category: distribution
+speed: 0.03
+research: conveyor

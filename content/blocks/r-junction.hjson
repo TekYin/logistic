@@ -1,0 +1,13 @@
+type: Junction
+name: R. Junction
+description: A junction reinforced with titanium. Functions the same.
+health: 150
+requirements: [
+  copper/4
+  lead/4
+  titanium/4
+]
+capacity: 16
+speed: 18
+category: distribution
+research: junction

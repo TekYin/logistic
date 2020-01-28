@@ -1,0 +1,11 @@
+type: Sorter
+name: R. Sorter
+description: A sorter reinforced with titanium. Functions the same.
+health: 150
+requirements: [
+  copper/4
+  lead/4
+  titanium/4
+]
+category: distribution
+research: sorter
